@@ -33,9 +33,9 @@ public class Enigma{
 
             // rotate rotors for next character
             rotate();
-        }               // <-- 关闭 for 循环
-        return result.toString();   // <-- 别忘了返回结果
-    }               // <-- 关闭 decrypt 方法
+        }
+        return result.toString();
+    }
 
     public String encrypt(String message){
         StringBuilder result = new StringBuilder();

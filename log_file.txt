@@ -1,0 +1,29 @@
+commit 735a40ebbd784b4b251ab275af80c0efbbb91c78
+Author: Jennythz <122670374+Jennythz@users.noreply.github.com>
+Date:   Mon Sep 22 16:35:52 2025 -0400
+
+    Update with comments and run to ensure no error
+
+commit f8a6fbdd348c1e2bd9fb2213d8fb7b335408f023
+Author: Jennythz <122670374+Jennythz@users.noreply.github.com>
+Date:   Mon Sep 22 16:16:45 2025 -0400
+
+    Update Enigma with complete code
+
+commit 71a81c0ddf4556d2936c411ca6ce573cc7e09560
+Author: Jennythz <122670374+Jennythz@users.noreply.github.com>
+Date:   Mon Sep 22 15:53:23 2025 -0400
+
+    add comments to explain Enigma code for better understanding
+
+commit b1bdcb376e8d79e148fe15402027a976cefdad72
+Author: Jennythz <122670374+Jennythz@users.noreply.github.com>
+Date:   Mon Sep 22 15:36:38 2025 -0400
+
+    Update Rotor.java with latest changes
+
+commit cb3adde1f2b196e323fe567972cee6804fb44557
+Author: Jennythz <122670374+Jennythz@users.noreply.github.com>
+Date:   Mon Sep 22 15:03:58 2025 -0400
+
+    initial commit of adding downloaded files
