@@ -1,6 +1,4 @@
 public class Rotor {
-
-    
     private String rotorValues;
     private char startChar;
         
@@ -9,9 +7,7 @@ public class Rotor {
         this.startChar = c;
         
         while(!this.rotate());
-            
     }
-    
     public boolean rotate(){
         //TODO
         //take last char and put it in front
@@ -20,8 +16,6 @@ public class Rotor {
         //check if top char equals startChar
         return rotorValues.charAt(0) == startChar;
     }
-    
-
     public int indexOf(char c){
         //TODO
         return rotorValues.indexOf(c);
